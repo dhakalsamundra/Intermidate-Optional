@@ -1,6 +1,5 @@
 print("Hello world!")
 print("Not another hello world")
-print("I've come to talk with you again")
 print("No")
 print("More")
 print("Hello")
