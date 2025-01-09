@@ -1,5 +1,5 @@
 print("Hello world!")
-print("Hello darkness my old friend	Not another hello world")
+print("Not another hello world")
 print("I've come to talk with you again")
 print("No")
 print("More")
